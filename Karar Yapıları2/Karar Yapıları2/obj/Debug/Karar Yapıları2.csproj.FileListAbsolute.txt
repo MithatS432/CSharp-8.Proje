@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Karar Yapıları2\Karar Yapıları2\bin\Debug\Karar Yapıları2.exe.config
+C:\Users\mitha\source\repos\Karar Yapıları2\Karar Yapıları2\bin\Debug\Karar Yapıları2.exe
+C:\Users\mitha\source\repos\Karar Yapıları2\Karar Yapıları2\bin\Debug\Karar Yapıları2.pdb
+C:\Users\mitha\source\repos\Karar Yapıları2\Karar Yapıları2\obj\Debug\Karar Yapıları2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Karar Yapıları2\Karar Yapıları2\obj\Debug\Karar Yapıları2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Karar Yapıları2\Karar Yapıları2\obj\Debug\Karar Yapıları2.exe
+C:\Users\mitha\source\repos\Karar Yapıları2\Karar Yapıları2\obj\Debug\Karar Yapıları2.pdb
